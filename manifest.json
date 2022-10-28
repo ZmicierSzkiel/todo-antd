@@ -1,0 +1,8 @@
+{
+  "short_name": "ToDo",
+  "name": "ToDo with Ant Design",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-antd/static/css/main.75332da1.css",
+    "main.js": "/todo-antd/static/js/main.9bb39cdb.js",
+    "index.html": "/todo-antd/index.html",
+    "main.75332da1.css.map": "/todo-antd/static/css/main.75332da1.css.map",
+    "main.9bb39cdb.js.map": "/todo-antd/static/js/main.9bb39cdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75332da1.css",
+    "static/js/main.9bb39cdb.js"
+  ]
+}
